@@ -1,0 +1,14 @@
+﻿  Triangle.cpp
+C:\Users\ThinkPad\Documents\GitHub\Triangle\Triangle\Triangle.cpp(37,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\ThinkPad\Documents\GitHub\Triangle\Triangle\Triangle.cpp(163,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ThinkPad\Documents\GitHub\Triangle\Triangle\Triangle.cpp(163,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ThinkPad\Documents\GitHub\Triangle\Triangle\Triangle.cpp(163,27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ThinkPad\Documents\GitHub\Triangle\Triangle\Triangle.cpp(212,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ThinkPad\Documents\GitHub\Triangle\Triangle\Triangle.cpp(212,3): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ThinkPad\Documents\GitHub\Triangle\Triangle\Triangle.cpp(211,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ThinkPad\Documents\GitHub\Triangle\Triangle\Triangle.cpp(211,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ThinkPad\Documents\GitHub\Triangle\Triangle\Triangle.cpp(229,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ThinkPad\Documents\GitHub\Triangle\Triangle\Triangle.cpp(229,4): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ThinkPad\Documents\GitHub\Triangle\Triangle\Triangle.cpp(228,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\ThinkPad\Documents\GitHub\Triangle\Triangle\Triangle.cpp(228,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Triangle.vcxproj -> C:\Users\ThinkPad\Documents\GitHub\Triangle\Triangle\Debug\Triangle.exe
